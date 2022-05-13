@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff155d60.css",
+    "main.js": "/static/js/main.be267542.js",
+    "static/js/415.fc063c41.chunk.js": "/static/js/415.fc063c41.chunk.js",
+    "static/js/787.f6e65957.chunk.js": "/static/js/787.f6e65957.chunk.js",
+    "static/media/chatify.png": "/static/media/chatify.04fa0efa4882ddaf1873.png",
+    "static/media/blog.png": "/static/media/blog.29967d38732782b07a39.png",
+    "static/media/home-main.png": "/static/media/home-main.a61435701ebeb6506a72.png",
+    "static/media/agreement.png": "/static/media/agreement.6e7ffed14ac3847cb121.png",
+    "static/media/school.png": "/static/media/school.13187633f96c5ca13c90.png",
+    "static/media/about.png": "/static/media/about.893f16baf11e09872408.png",
+    "static/media/boy.png": "/static/media/boy.b9678b327117dea1bc51.png",
+    "static/media/logo.png": "/static/media/logo.30926a117a36fd893cf3.png",
+    "index.html": "/index.html",
+    "main.ff155d60.css.map": "/static/css/main.ff155d60.css.map",
+    "main.be267542.js.map": "/static/js/main.be267542.js.map",
+    "415.fc063c41.chunk.js.map": "/static/js/415.fc063c41.chunk.js.map",
+    "787.f6e65957.chunk.js.map": "/static/js/787.f6e65957.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff155d60.css",
+    "static/js/main.be267542.js"
+  ]
+}
